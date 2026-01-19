@@ -1,4 +1,4 @@
-Sitemap: https://uploadedfairywebfiction.loophole.site/
+Sitemap: https://bequestdecendresstudios.github.io/BequestDeCendres/
 
 # ChatGPT is completely disallowed
 User-agent: ChatGPT-User
